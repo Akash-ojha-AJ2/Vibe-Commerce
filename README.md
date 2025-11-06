@@ -87,19 +87,8 @@ Follow these steps to get the project running on your local machine.
 
 *(As required by the assignment deliverables)*
 
-[Link to your 1-2 minute Loom/YouTube demo video here]
-
----
-
-## 📸 Screenshots
-
-*(As required by the assignment deliverables)*
-
-### 1. Product Page
+[https://drive.google.com/file/d/1g_Jo-SHok-H7l_mTK5sLQjBEjR2vb775/view?usp=drive_link]
 
 
-### 2. Cart Page
 
-
-### 3. Checkout Receipt Modal
 

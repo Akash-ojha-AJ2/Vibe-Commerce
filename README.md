@@ -99,11 +99,12 @@ Follow these steps to get the project running on your local machine.
 
 
 ### 2. Cart Page.
-[https://drive.google.com/file/d/1G0DnWnA5ANyz7vm1hj4a9M93jFlNhvQk/view?usp=drive_link]
+![Alt Text](https://github.com/Akash-ojha-AJ2/Vibe-Commerce/blob/main/Screenshot%202025-11-08%20095422.png)
 
 
 ### 3. Checkout Receipt Modal.
-[https://drive.google.com/file/d/1LjrfIRkSczeua9MbLcTUGYHf3ZUcqwDR/view?usp=drive_link]
+![Alt Text](https://github.com/Akash-ojha-AJ2/Vibe-Commerce/blob/main/Screenshot%202025-11-08%20095653.png)
+
 
 
 

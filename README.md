@@ -90,5 +90,19 @@ Follow these steps to get the project running on your local machine.
 [https://drive.google.com/file/d/1g_Jo-SHok-H7l_mTK5sLQjBEjR2vb775/view?usp=drive_link]
 
 
+## 📸 Screenshots
+
+*(As required by the assignment deliverables)*
+
+### 1. Product Page  [https://drive.google.com/file/d/16wdR5Fq1A3QCUo5UHJiGAFA8xCAqmkqT/view?usp=drive_link]
+
+
+### 2. Cart Page [https://drive.google.com/file/d/1G0DnWnA5ANyz7vm1hj4a9M93jFlNhvQk/view?usp=drive_link]
+
+
+### 3. Checkout Receipt Modal [https://drive.google.com/file/d/1LjrfIRkSczeua9MbLcTUGYHf3ZUcqwDR/view?usp=drive_link]
+
+
+
 
 

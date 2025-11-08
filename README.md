@@ -95,7 +95,7 @@ Follow these steps to get the project running on your local machine.
 *(As required by the assignment deliverables)*
 
 ### 1. Product Page.
-[https://drive.google.com/file/d/16wdR5Fq1A3QCUo5UHJiGAFA8xCAqmkqT/view?usp=drive_link]
+![Alt Text](https://github.com/Akash-ojha-AJ2/Vibe-Commerce/blob/main/Screenshot%202025-11-08%20095356.png)
 
 
 ### 2. Cart Page.
@@ -104,6 +104,7 @@ Follow these steps to get the project running on your local machine.
 
 ### 3. Checkout Receipt Modal.
 [https://drive.google.com/file/d/1LjrfIRkSczeua9MbLcTUGYHf3ZUcqwDR/view?usp=drive_link]
+
 
 
 

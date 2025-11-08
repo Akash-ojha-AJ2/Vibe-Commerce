@@ -87,7 +87,7 @@ Follow these steps to get the project running on your local machine.
 
 *(As required by the assignment deliverables)*
 
-[https://drive.google.com/file/d/1g_Jo-SHok-H7l_mTK5sLQjBEjR2vb775/view?usp=drive_link]
+[https://youtu.be/u_IW23ZRW4Y?si=n1BsN88mkeqDCPB3]
 
 
 ## 📸 Screenshots
@@ -104,6 +104,7 @@ Follow these steps to get the project running on your local machine.
 
 ### 3. Checkout Receipt Modal.
 [https://drive.google.com/file/d/1LjrfIRkSczeua9MbLcTUGYHf3ZUcqwDR/view?usp=drive_link]
+
 
 
 
